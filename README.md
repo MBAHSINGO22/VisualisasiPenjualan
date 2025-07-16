@@ -1,4 +1,4 @@
-<h1 align="center">📊 VisualisasiPenjualan</h1>
+<h1 align="center">📊 Visualisasi Penjualan</h1>
 <p align="center">
   <b>Analisis dan Visualisasi Data Penjualan Tahunan</b><br>
   <sub>Dibuat menggunakan Python, Matplotlib, dan Pandas</sub>
@@ -32,8 +32,7 @@ Notebook ini menampilkan:
 ```
 VisualisasiPenjualan/
 ├── dataPenjualanSetahun.csv       # Dataset penjualan 12 bulan
-├── Matplotlib_235314099.ipynb     # Notebook utama analisis dan visualisasi
-└── README.md                      # Dokumentasi proyek
+└── Matplotlib_235314099.ipynb     # Notebook utama analisis dan visualisasi
 ```
 
 ---
@@ -54,13 +53,6 @@ VisualisasiPenjualan/
 ```bash
 pip install pandas matplotlib
 ```
-
-### 2️⃣ Jalankan Notebook
-
-```bash
-jupyter notebook Matplotlib_235314099.ipynb
-```
-
 ---
 
 ## 📊 Contoh Visualisasi
@@ -74,18 +66,9 @@ jupyter notebook Matplotlib_235314099.ipynb
 ## 📌 Catatan
 
 - Dataset CSV harus dalam format: `Bulan, Penjualan`
-- Visualisasi disesuaikan dengan tema bisnis retail
-- Dapat dikembangkan untuk menambahkan anotasi, prediksi sederhana, atau filter interaktif
-
 ---
 
 ## 👨‍💻 Author
 
 **MBAHSINGO22**  
 🔗 [GitHub](https://github.com/MBAHSINGO22)
-
----
-
-## 📄 Lisensi
-
-Lisensi MIT — bebas digunakan untuk belajar, riset, dan pengembangan.
