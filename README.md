@@ -63,11 +63,6 @@ pip install pandas matplotlib
 
 ---
 
-## 📌 Catatan
-
-- Dataset CSV harus dalam format: `Bulan, Penjualan`
----
-
 ## 👨‍💻 Author
 
 **MBAHSINGO22**  
